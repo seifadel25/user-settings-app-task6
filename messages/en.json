@@ -1,0 +1,47 @@
+{
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, ar {ar Arabic} en {🇺🇸 English} other {Unknown}}"
+  },
+  "HomePage": {
+    "title": "Hello world!",
+    "about": "Go to the about page"
+  },
+  "SettingsPage": {
+    "settings": "Settings",
+    "main": "Settings",
+    "email&phone": "Email & Phone",
+    "password": "Password",
+    "taxes": "Taxes",
+    "save_changes": "Save Changes",
+    "username": "Username",
+    "username_placeholder": "Enter your username",
+    "company_name": "Company Name",
+    "company_name_placeholder": "Enter your company name",
+    "trade_license": "Trade License Number",
+    "trade_license_placeholder": "Enter your trade license number",
+    "Email&Phone": {
+      "email": "Email",
+      "email_placeholder": "Enter your email",
+      "phone": "Phone",
+      "phone_placeholder": "Enter your phone number"
+    },
+    "Password": {
+      "title": "Change Password",
+      "current_password": "Current Password",
+      "current_password_placeholder": "Enter your current password",
+      "new_password": "New Password",
+      "new_password_placeholder": "Enter your new password",
+
+      "password_mismatch": "Passwords do not match",
+      "password_submit": "Change Password",
+      "password_success": "Password changed successfully"
+    },
+    "Taxes": {
+      "vat": "VAT",
+      "vat_placeholder": "Enter your VAT",
+      "tax_id": "Tax ID",
+      "tax_id_placeholder": "Enter your tax ID"
+    }
+  }
+}
